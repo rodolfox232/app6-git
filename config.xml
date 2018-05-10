@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>  
 <widget xmlns ="http://www.w3.org/ns/widgets"
  xmlns:gap= "http://phonegap.com/ns/1.0"
- id="com.phonegap.app5"
+ id="com.phonegap.app6"
  version="1.0.0">
  
  <name> app5-2018 5 de mayo la batalla de puebla </name>
